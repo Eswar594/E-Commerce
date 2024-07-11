@@ -1,5 +1,5 @@
 <h1>E-Commerce Website</h1>
-<p>This is the E-Commerce website  which is for the Task of Next24 Internship.</p>
+<p>This is the E-Commerce website  which is for the Task of Next24tech Internship.</p>
 <p>It is having Navbar with the Sections like Home,Trending,New etc.</p>
 <p>Products are classified as categories in the Home Section.</p>
 <p>This E-Commerce website is built by using the HTMl,CSS and Bootstrap.</p>
